@@ -2,6 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-glapinski/)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h1r0ku)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+Hello and welcome to my GitHub profile! I'm a software engineer, specializing in backend development and distributed systems. This profile is where I showcase my coding projects and contributions to open-source software. I'm passionate about sharing my knowledge and working with other developers to create innovative solutions. Here, you'll find a collection of my repositories, each containing code that I've written for various projects. I hope you find something that interests you, and feel free to reach out if you'd like to collaborate or have any questions. Thank you for stopping by!
+
+
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
