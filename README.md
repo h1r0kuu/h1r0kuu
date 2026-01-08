@@ -1,5 +1,4 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robert-glapinski/)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram](https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/h1r0ku)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Hello and welcome to my GitHub profile!
 
